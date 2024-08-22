@@ -1,34 +1,32 @@
-## Hi I'm Praveen Ravichandran 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+## About Me
 
+👋 Hi, I'm Praveen Ravichandran, an aspiring Data Scientist with a background in Electronics and Communication Engineering. I am passionate about transforming data into actionable insights and leveraging machine learning to solve real-world problems.
 
+### 🔧 Skills & Expertise
+- **Programming Languages**: Python, SQL
+- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau
+- **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, Keras
+- **Web Development for Data Science**: Streamlit, Flask
 
-### About Me :
-Aspiring data scientist with strong analytical skills and a passion for machine learning, seeking an entry-level position to apply and further develop skills in data analysis, statistical modeling, and predictive analytics<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :telescope:I am currently learning Data Science
+### 💼 Professional Experience
+- **Project Manager** at Lumina Datamatics (Aug 2023 – Nov 2023)
+  - Managed and executed data-driven projects, improving financial oversight and decision-making processes.
 
-- :seedling:  I’m interested in Deep Learning
+- **Data Analyst Trainee** at Excel Tech Solutions (Feb 2023 – Jul 2023)
+  - Analyzed large datasets, developed Power BI dashboards, and enhanced operational efficiency by 15%.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+### 📊 Key Projects
+- **[Airbnb Analysis](https://github.com/PraveenRavichandran27/Airbnb-Analysis)**: Analyzed Airbnb data to gain insights into pricing and occupancy trends. Built an interactive Streamlit app for geospatial visualization and data exploration.
+- **[Industrial Copper Modelling](https://github.com/PraveenRavichandran27/Industrial-Copper-Modelling)**: Developed machine learning models for accurate pricing predictions in the industrial copper industry.
+- **[Singapore Resale Flat Price Prediction](https://github.com/PraveenRavichandran27/Singapore-Resale-Flat-Price-Prediction)**: Created a Streamlit app for predicting the resale value of HDB flats in Singapore, achieving 85% model accuracy.
 
-- :mailbox:How to reach me: https://www.linkedin.com/in/praveenr27/
+### 🎓 Education
+- **Master Data Scientist** from Guvi Geek, IIT-M (Feb 2024 – Jul 2024)
+- **Bachelor of Technology** in Electronics and Communication Engineering from Sri Manakula Vinayagar Engineering College (Aug 2018 – May 2022)
 
----
+### 📫 Let's Connect
+- **LinkedIn**: [linkedin.com/in/praveenr27](https://linkedin.com/in/praveenr27)
+- **GitHub**: [github.com/PraveenRavichandran27](https://github.com/PraveenRavichandran27)
+- **Email**: praveen2726r@gmail.com
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg"  title="python"  alt="python" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/json/json-plain.svg" title="json"  alt="json" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlib  alt="matplotlib width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tensorflow/tensorflow-original.svg" title="tensorflow"  alt="tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-plain-wordmark.svg" title="numpy"  alt="numpy" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqlite/sqlite-original-wordmark.svg" title="sqlite"  alt="sqlite" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytorch/pytorch-plain-wordmark.svg" title="pytorch"  alt="pytorch" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original-wordmark.svg" title="pandas"  alt="pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-
-</div>
+I'm always eager to collaborate on exciting projects and explore new opportunities in the data science field. Feel free to explore my repositories and reach out if you’d like to work together!
